@@ -5,3 +5,5 @@ export const Container = styled.div`
     min-height: 100vh;
     color: #fff;
 `;
+
+export const Map = styled.div``;
