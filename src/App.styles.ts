@@ -6,4 +6,12 @@ export const Container = styled.div`
     color: #fff;
 `;
 
-export const Map = styled.div``;
+export const Map = styled.div`
+    height: 480px;
+    height: 480px;
+    background-image: url('/assets/map.png');
+    background-position: left top;
+    background-repeat: no-repeat;
+
+
+`;
